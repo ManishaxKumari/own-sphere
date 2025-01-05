@@ -10,8 +10,8 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "OwnSphere",
-  description: "OwnSphere - Your personal storage solution.",
+  title: "StoreIt",
+  description: "StoreIt - The only storage solution you need.",
 };
 
 export default function RootLayout({
